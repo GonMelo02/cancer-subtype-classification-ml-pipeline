@@ -57,7 +57,3 @@ The supervised stage demonstrated how different algorithms behave under high-dim
 - Highlighted challenges of **high-dimensional, small-sample datasets**.  
 - Reinforced experience with **feature selection, dimensionality reduction, and validation techniques**.  
 
----
-
-## 📁 Repository Structure
-
